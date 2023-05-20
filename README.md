@@ -1,15 +1,14 @@
 <h1 align="center">Hola 👋, soy<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Lisandro</a></h1>
-<h3 align="center">Soy estudiante de programacion en UTN &#127470;&#127475</h3>
-
+Lisandro</a>
+</h1>
+<h3 align="center">Soy estudiante de programacion en UTN </h3>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 Actualmente trabajo en mejorar mi codigo y realizar proyectos webs y de escritorio.
+- 🌱 Actualmente trabajo en mejorar mi codigo, realizar proyectos webs y de escritorio.
 
 - 🤝Estoy aprendiendo JavaScript y C++ <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
 
 - 📫 Escribime...  **Lisandrolencina.99@gmail.com**
 <br/>
