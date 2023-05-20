@@ -8,9 +8,7 @@ Lisandro</a></h1>
 
 - 🌱 Actualmente trabajo en mejorar mi codigo y realizar proyectos webs y de escritorio.
 
-- 🤝 Estoy disponible para trabajar como freelance.
-
-- 🌱 Actualmente estoy aprendiendo JavaScript y C++ <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🤝Estoy aprendiendo JavaScript y C++ <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 
 - 📫 Escribime...  **Lisandrolencina.99@gmail.com**
@@ -24,9 +22,7 @@ Lisandro</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/xxLich">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCZukymPnL3twmrMoVXdnDew">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+				
       </div>
 
 </p>
