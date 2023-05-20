@@ -8,7 +8,7 @@ Lisandro</a>
 
 - 🌱 Actualmente trabajo en mejorar mi codigo, realizar proyectos webs y de escritorio.
 
-- 🤝Estoy aprendiendo JavaScript y C++ <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🤝Estoy aprendiendo JavaScript y C++ 
 
 - 📫 Escribime...  **Lisandrolencina.99@gmail.com**
 <br/>
